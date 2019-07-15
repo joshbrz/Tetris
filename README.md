@@ -1,6 +1,6 @@
 # Tetris 99
 
-![](https://15logo.net/wp-content/uploads/2017/08/tetris-800x800.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6p2_bgkqX8ZGNvnbhfRY3VU1Q8XlqgSOm6uQZHMtENCi6C_Rfg)
 
 # Author: Josh Braza
 15/07/2019
